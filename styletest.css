@@ -129,15 +129,23 @@ h4{
 ul{
   text-align: center;
 }
-.facebook{
+/*li .facebook{
   float:left;
-  margin: auto;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
-.twitter{
+li .twitter{
   float: left;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+*/
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .copyright{
   clear: both;
+  text-align: center;
 }
