@@ -1,0 +1,41 @@
+body{
+  width: 100%;
+  margin: 0 10% 0 10%;
+}
+.main-page{
+  box-sizing: border-box;
+  margin: 10px 0;
+}
+.float-left{
+  width: 70%;
+  background-color: red;
+  height: 500px;
+  float: left;
+}
+
+.float-right{
+  width: 30%;
+  background-color: blue;
+  height: 500px;
+  float: left;
+}
+
+ul{
+  background-color: green;
+}
+
+li{
+  float: left;
+}
+
+header{
+  background-color: blue;
+  font-weight: bold;
+}
+h1{
+  color: white;
+}
+nav{
+  color: yellow;
+  float: right;
+}
